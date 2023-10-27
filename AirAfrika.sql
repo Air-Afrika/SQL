@@ -72,3 +72,5 @@ CREATE TABLE admin (
   motDePasse VARCHAR(255) NOT NULL,
   PRIMARY KEY (id)
 );
+insert into admin (id, nom, prénom, email, motdepasse)
+           values (0,'Bouchettoy','Marouan','uanemaro216@gmail.com','Marouan216@');
