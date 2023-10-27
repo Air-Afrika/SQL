@@ -73,4 +73,4 @@ CREATE TABLE admin (
   PRIMARY KEY (id)
 );
 insert into admin (id, nom, prénom, email, motdepasse)
-           values (0,'Bouchettoy','Marouan','uanemaro216@gmail.com','Marouan216@');
+           values (0,'Bouchettoy','Marouan','uanemaro216@gmail.com','$2a$10$cizoTYsvP5KyMn6UJeK21.48ZVcFumxolrVze99joUyMmzn8TchAO');
